@@ -1,0 +1,130 @@
+fileFormatVersion: 2
+guid: 7940bd61adb1af74489cd832381091da
+timeCreated: 1517680020
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Arm.L
+    100002: Arm.R
+    100004: Armature
+    100006: Circle.002
+    100008: Hand.L
+    100010: Hand.L_end
+    100012: Hand.L_end_end
+    100014: Hand.R
+    100016: Hand.R_end
+    100018: Hand.R_end_end
+    100020: Head
+    100022: Head_end
+    100024: Head_end_end
+    100026: //RootNode
+    100028: Root
+    400000: Arm.L
+    400002: Arm.R
+    400004: Armature
+    400006: Circle.002
+    400008: Hand.L
+    400010: Hand.L_end
+    400012: Hand.L_end_end
+    400014: Hand.R
+    400016: Hand.R_end
+    400018: Hand.R_end_end
+    400020: Head
+    400022: Head_end
+    400024: Head_end_end
+    400026: //RootNode
+    400028: Root
+    4300000: Circle.002
+    7400000: Armature|Armature|Armature|ArmatureAction.001|Armature|ArmatureAction.00
+    7400002: Armature|Armature|Armature|ArmatureAction.002|Armature|ArmatureAction.00
+    7400004: Armature|Armature|Armature|ArmatureAction|Armature|ArmatureAction
+    7400006: Armature|Armature|Armature|Dance01|Armature|Dance01
+    7400008: Armature|Armature|Armature|Dance02|Armature|Dance02
+    7400010: Armature|Armature|Armature|Dance03|Armature|Dance03
+    7400012: Armature|Armature|Armature|Dance|Armature|Dance
+    9500000: //RootNode
+    13700000: Circle.002
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: 28fc65ff93ce3cd498ceab9054139ee6, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
